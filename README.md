@@ -1,6 +1,7 @@
 Artem   
 Unity C# Developer
 
-Reality is a game. But noone is fixing bugs
+[My itch.io](https://xwartem.itch.io/)
+
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/XWArtem)
